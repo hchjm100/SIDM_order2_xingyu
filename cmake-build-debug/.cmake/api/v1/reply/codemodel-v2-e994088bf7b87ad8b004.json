@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SIDM_order2_xingyu",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SIDM_order2_xingyu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SIDM_order2_xingyu-Debug-8113f64282a635c70364.json",
+					"name" : "SIDM_order2_xingyu",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sanghaoyu/CLionProjects/Gadget-2/SIDM_order2_xingyu/cmake-build-debug",
+		"source" : "/Users/sanghaoyu/CLionProjects/Gadget-2/SIDM_order2_xingyu"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

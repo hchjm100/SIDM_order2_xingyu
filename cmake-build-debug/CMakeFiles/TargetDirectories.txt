@@ -1,0 +1,3 @@
+/Users/sanghaoyu/CLionProjects/Gadget-2/SIDM_order2_xingyu/cmake-build-debug/CMakeFiles/SIDM_order2_xingyu.dir
+/Users/sanghaoyu/CLionProjects/Gadget-2/SIDM_order2_xingyu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sanghaoyu/CLionProjects/Gadget-2/SIDM_order2_xingyu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
